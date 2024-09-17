@@ -1,6 +1,6 @@
 {
-    "name": "beyondcode/laravel-websockets",
-    "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel.",
+    "name": "nerio93/laravel-websockets",
+    "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel. (@nerio93's fork)",
     "keywords": [
         "beyondcode",
         "laravel-websockets",
